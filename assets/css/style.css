@@ -55,3 +55,57 @@ h1, h2 {
     color:#00896F;
     transition: .3s;
 }
+
+/*---image of dogs and main text--*/
+
+
+
+#image-main-text {
+    position:relative;
+    height: 700px;
+    width:100%;
+    overflow: hidden;
+    background-color: #b0a8b91a;
+}
+
+#dog-image, #celebrity-care {
+    display: inline-block;
+}
+
+#celebrity-care > p {
+    text-align: right;
+
+}
+
+#dog-image {
+    height: 500px;
+    width: 50%;
+    margin:0 auto;
+    padding-top: 10%;
+    padding-left: 10%;
+    background: url(../images/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3M2OS1iZWVyLTAzLmpwZw.webp) no-repeat center center;
+}
+
+#celebrity-care {
+    width:350px;
+    height: 350px;
+    position: absolute;
+    margin:0;
+    padding-top:10%;
+    padding-left:10%;
+    font-size: 300%;
+    line-height: 50px;
+    letter-spacing: 2px;
+}
+
+#book-now {
+    padding:5px 30px 5px 30px;
+    line-height: 100px;
+    text-decoration: none;
+    color: white;
+    background-color: #00896F;
+    border: 1px solid #00896F;
+    border-radius: 40px;
+}
+
+  
