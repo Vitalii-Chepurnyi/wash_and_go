@@ -84,6 +84,19 @@ h1, h2 {
     padding-top: 10%;
     padding-left: 10%;
     background: url(../images/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3M2OS1iZWVyLTAzLmpwZw.webp) no-repeat center center;
+    animation-name: dog-img;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+/*--zoom animation for dog image--*/
+
+@keyframes dog-img {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
 
 #celebrity-care {
