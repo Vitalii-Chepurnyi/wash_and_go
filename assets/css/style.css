@@ -30,6 +30,12 @@ h1, h2 {
 }
 
 /*--navigation home,book,contact links---*/
+.active {
+    padding:0 15px 0 15px;
+    background-color: #b0a8b91a;
+    border: 1px solid #00897086;
+    border-radius: 20px;
+}
 
 #navigation_links {
     font-size: 150%;
@@ -55,6 +61,7 @@ h1, h2 {
     color:#00896F;
     transition: .3s;
 }
+
 
 /*---image of dogs and main text--*/
 
@@ -85,17 +92,17 @@ h1, h2 {
     padding-left: 10%;
     background: url(../images/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3M2OS1iZWVyLTAzLmpwZw.webp) no-repeat center center;
     animation-name: dog-img;
-    animation-duration: 5s;
+    animation-duration: 3s;
     animation-fill-mode: forwards;
 }
 /*--zoom animation for dog image--*/
 
 @keyframes dog-img {
     from {
-        transform: scale(1);
+        transform: scale(0.7);
     }
     to {
-        transform: scale(1.1);
+        transform: scale(1);
     }
 }
 
@@ -163,15 +170,21 @@ h1, h2 {
     padding: 30px 50px;
 }
 
-#content > h2 {
+#content h2 {
     line-height: 70px;
     color:white;
+}
+
+#content p {
+    font-size: 120%;
+
 }
 
 /*--footer--*/
 
 #end-page {
     padding-top: 50px;
+   
 }
 
 #footer {
