@@ -9,3 +9,43 @@
 body {
     font-family: Abel, sans-serif;
 }
+
+    /*--heading and logo--*/
+
+h1, h2 {
+    font-family: Quicksand, sans-serif;
+    letter-spacing: 2px;
+    color:#4B4453;
+}   
+
+#logo {
+    float:left;
+    font-size: 300%;
+    margin: 20px 0 0 40px;
+}
+
+/*--navigation home,book,contact links---*/
+
+#navigation_links {
+    font-size: 150%;
+    letter-spacing: 2px;
+}
+
+#logo #navigation_links {
+    line-height: 100px;
+}
+
+#navigation_links li {
+    float:right;
+    list-style-type: none;
+    margin: 40px 50px 0 0;
+}
+
+#navigation_links a {
+    text-decoration: none;
+    color:#4B4453;
+}
+
+#navigation_links a:hover {
+    color:#00896F;
+}
