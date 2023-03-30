@@ -24,6 +24,11 @@ h1, h2 {
     margin: 20px 0 0 40px;
 }
 
+#logo:hover {
+    color:#00896F;
+    transition: .3s;
+}
+
 /*--navigation home,book,contact links---*/
 
 #navigation_links {
@@ -48,4 +53,5 @@ h1, h2 {
 
 #navigation_links a:hover {
     color:#00896F;
+    transition: .3s;
 }
