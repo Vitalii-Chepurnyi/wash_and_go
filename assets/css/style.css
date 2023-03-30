@@ -103,9 +103,15 @@ h1, h2 {
     line-height: 100px;
     text-decoration: none;
     color: white;
-    background-color: #00896F;
-    border: 1px solid #00896F;
+    background-color: #00897086;
+    border: 1px solid #b0a8b91a;
     border-radius: 40px;
+}
+
+#book-now:hover {
+    background-color: #00896F;
+    border-color: #00896F;
+    transition: .3s;
 }
 
   
