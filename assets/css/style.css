@@ -127,4 +127,25 @@ h1, h2 {
     transition: .3s;
 }
 
-  
+/*--our vision section--*/
+
+#vision-text {
+    position:relative;
+    height: 500px;
+    width: 100%;
+    margin:0;
+    padding-top: 150px;
+}
+
+#main-name {
+    font-size: 200%;
+    text-align: center;
+}
+
+#info {
+    height:300px;
+    width:50%;
+    background-color: #b0a8b91a;
+    text-align: center;
+    margin: auto;
+}
