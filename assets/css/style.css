@@ -203,5 +203,27 @@ h1, h2 {
     font-size: 110%;
 }
 
-/*--booking and service--*/
+/*----booking form---*/
 
+#booking-section {
+    overflow: hidden;
+    background-color: #b0a8b91a;
+    height:700px;
+    width:100%;
+}
+
+.booking-form {
+    margin: 70px 10% 0 0;
+    height:500px;
+    width:30%;
+    background-color: #00897086;
+    position: absolute;
+    left:15%;
+    padding:30px;
+    color:white;
+}
+
+.booking-form h2 {
+    color:white;
+    padding: 10px;
+}
