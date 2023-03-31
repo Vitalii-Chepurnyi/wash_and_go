@@ -213,11 +213,19 @@ h1, h2 {
     background-color: #b0a8b91a;
 }
 
-#service-section h2{
+
+#service-section {
+    padding-top: 20px;
+    padding-left: 10%;
+}
+
+#service-section > h2{
     padding-top: 50px;
     padding-left: 30px;
     font-size: 200%;
     text-decoration:underline;
 }
 
-
+#service-section li {
+    display:block;
+}
