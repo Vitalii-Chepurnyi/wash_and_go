@@ -264,3 +264,23 @@ h1, h2 {
     color:#00896F;
     border-color: #008970;
 }
+
+#form-img img {
+    border: 1px solid #b0a8b91a;
+    border-radius: 20px;
+    margin:50px 30px 0 0;
+    float:right;
+    max-width: 900px;
+    animation-name: form-img;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes form-img {
+    from {
+        transform: scale(0.8);
+    }
+    to {
+        transform: scale(1);
+    }
+}
