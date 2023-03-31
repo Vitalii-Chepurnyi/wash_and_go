@@ -202,3 +202,22 @@ h1, h2 {
     text-align: right;
     font-size: 110%;
 }
+
+/*--booking and service--*/
+
+#services {
+    position:relative;
+    height: 700px;
+    width:100%;
+    overflow: hidden;
+    background-color: #b0a8b91a;
+}
+
+#service-section h2{
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 200%;
+    text-decoration:underline;
+}
+
+
