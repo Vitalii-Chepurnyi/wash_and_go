@@ -206,6 +206,7 @@ h1, h2 {
 /*----booking form---*/
 
 #booking-section {
+    font-size: 110%;
     overflow: hidden;
     background-color: #b0a8b91a;
     height:700px;
@@ -216,14 +217,50 @@ h1, h2 {
     margin: 70px 10% 0 0;
     height:500px;
     width:30%;
-    background-color: #00897086;
+    background-color: #008970c4;
     position: absolute;
     left:15%;
     padding:30px;
     color:white;
+    border: 1px solid #b0a8b91a;
+    border-radius: 50px;
+}
+
+.booking-form:hover {
+    background-color:#00896F;
+    transition: 0.5s;
+
 }
 
 .booking-form h2 {
     color:white;
     padding: 10px;
+}
+
+.input-text {
+    font-size:150%;
+    color:#4B4453;
+    width:100%;
+    margin: 10px 0 20px 0;
+    line-height: 40px;
+    border: 1px solid #00897086;
+    border-radius: 10px;
+}
+
+.book-button {
+    font-family: Abel, sans-serif;
+    margin-top: 10px;
+    margin-left: 400px;
+    display:block;
+    font-size: 150%;
+    background-color: white;
+    border: 2px solid #00897086;
+    border-radius: 30px;
+    padding: 5px 35px 5px 35px;
+    color:#4B4453;
+}
+
+.book-button:hover {
+    color:#00896F;
+    border-color: #008970;
 }
