@@ -207,7 +207,7 @@ h1, h2 {
 
 #services {
     position:relative;
-    height: 700px;
+    padding-left: 30px;
     width:100%;
     overflow: hidden;
     background-color: #b0a8b91a;
@@ -221,11 +221,25 @@ h1, h2 {
 
 #service-section > h2{
     padding-top: 50px;
-    padding-left: 30px;
+    padding-left: 20px;
     font-size: 200%;
     text-decoration:underline;
+}
+
+#color-text h2:hover {
+    color:#00896F;
+    font-size:170%;
+    transition: .5s;
 }
 
 #service-section li {
     display:block;
 }
+
+#service-section img {
+    width: 40%;
+    border: 1px solid #b0a8b91a;
+    border-radius: 40px;
+    
+}
+
