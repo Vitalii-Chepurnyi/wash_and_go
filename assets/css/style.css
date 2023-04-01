@@ -68,7 +68,6 @@ h1, h2 {
 
 
 #image-main-text {
-    position:relative;
     height: 700px;
     width:100%;
     overflow: hidden;
@@ -295,4 +294,38 @@ h1, h2 {
     margin-left: 30%;
     border: 2px solid #00897086;
     border-radius: 20px;
+}
+
+/*--enquiry message--*/
+
+#enquiry-message {
+    overflow: hidden;
+    height: 700px;
+    width: 100%;
+    background-color:#b0a8b91a;
+}
+
+#paw-img img {
+    border: 1px solid #b0a8b91a;
+    border-radius: 20px;
+    margin-top:50px;
+    margin-left: 50px;
+    float:left;
+    max-width: 900px;
+}
+
+#enquiry {
+    padding: 20px;
+    float:right;
+    margin-top:100px;
+    margin-right: 15%;
+    font-size: 150%;
+    max-width: 500px;
+    background-color: #00897086;
+    border: 1x solid #b0a8b91a;
+    border-radius: 20px;
+}
+
+#enquiry textarea {
+    border: 1px solid #4B4453;
 }
