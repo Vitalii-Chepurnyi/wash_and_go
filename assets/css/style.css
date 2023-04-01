@@ -275,6 +275,8 @@ h1, h2 {
     animation-fill-mode: forwards;
 }
 
+/*--zoom animation for form image--*/
+
 @keyframes form-img {
     from {
         transform: scale(0.8);
@@ -308,10 +310,24 @@ h1, h2 {
 #paw-img img {
     border: 1px solid #b0a8b91a;
     border-radius: 20px;
-    margin-top:50px;
-    margin-left: 50px;
+    margin-top:70px;
+    margin-left: 100px;
     float:left;
-    max-width: 900px;
+    max-width:800px;
+    animation-name: paw-img;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+/*--zoom animation for paw image--*/
+
+@keyframes paw-img {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
 
 #enquiry {
