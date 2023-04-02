@@ -318,8 +318,8 @@ h1, h2 {
 #paw-img img {
     border: 1px solid #b0a8b91a;
     border-radius: 20px;
-    margin-top: 120px;
-    margin-left: 250px;
+    margin-top: 50px;
+    margin-left: 200px;
     float:left;
     max-width:900px;
     animation-name: paw-img;
@@ -334,7 +334,7 @@ h1, h2 {
         transform: scale(1);
     }
     to {
-        transform: scale(1.4);
+        transform: scale(1.1);
     }
 }
 
