@@ -122,7 +122,7 @@ h1, h2 {
     line-height: 100px;
     text-decoration: none;
     color: white;
-    background-color: #00897086;
+    background-color: #008970c4;
     border: 1px solid #b0a8b91a;
     border-radius: 40px;
 }
@@ -151,7 +151,7 @@ h1, h2 {
 #info {
     height:400px;
     width:80%;
-    background-color: #00897086;
+    background-color: #008970c4;
     border: 1px solid white;
     border-radius: 100px;
     margin: auto;
@@ -190,13 +190,13 @@ h1, h2 {
     margin: auto;
     width: 98%;
     line-height: 70px;
-    background-color: #b0a8b91a;
+    background-color: #b0a8b942;
     border: 1px solid white;
     border-radius: 30px;
 }
 
 #footer > h2 {
-    color: #b0a8b98c;
+    color: #4B4453;
     padding-right: 20px;
     text-align: right;
     font-size: 110%;
@@ -318,12 +318,12 @@ h1, h2 {
 #paw-img img {
     border: 1px solid #b0a8b91a;
     border-radius: 20px;
-    margin-top:70px;
-    margin-left: 100px;
+    margin-top: 120px;
+    margin-left: 250px;
     float:left;
-    max-width:800px;
+    max-width:900px;
     animation-name: paw-img;
-    animation-duration: 2s;
+    animation-duration: 3s;
     animation-fill-mode: forwards;
 }
 
@@ -334,7 +334,7 @@ h1, h2 {
         transform: scale(1);
     }
     to {
-        transform: scale(1.1);
+        transform: scale(1.4);
     }
 }
 
@@ -398,7 +398,7 @@ h1, h2 {
 #social-link i {
     font-size: 250%;
     margin: 0 40px;
-    color: #00897086;
+    color: #008970c4;
 }
 
 #social-link i:hover {
@@ -444,7 +444,7 @@ h1, h2 {
 }
 
 #location i {
-    color:#00897086;
+    color:#008970c4;
     font-size: 170%;
 }
 
