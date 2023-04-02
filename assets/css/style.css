@@ -412,3 +412,27 @@ h1, h2 {
 }
 
 /*---opening times, phone contact--*/
+
+#opening-times {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 150%;
+    color:#4B4453
+}
+
+#opening-times table {
+    margin: 0 auto;
+}
+
+#phone-contact {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 150%;
+}
+
+#phone-contact p {
+    font-size: 140%;
+    color:#4B4453;
+}
+
+
