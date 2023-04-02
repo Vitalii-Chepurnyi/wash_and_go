@@ -375,3 +375,25 @@ h1, h2 {
     color:#00896F;
     border-color: #008970;
 }
+
+/*--social media links---*/
+
+#social-link {
+    margin: 50px 0 0 0;
+    text-align: center;
+}
+
+#social-link li {
+    display: inline;
+}
+
+#social-link i {
+    font-size: 250%;
+    margin: 0 40px;
+    color: #00897086;
+}
+
+#social-link i:hover {
+    color:#008970;
+    transition: 0.1s;
+}
