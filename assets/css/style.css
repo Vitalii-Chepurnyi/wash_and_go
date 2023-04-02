@@ -435,4 +435,20 @@ h1, h2 {
     color:#4B4453;
 }
 
+/*---location---*/
 
+#location {
+    font-size: 150%;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#location i {
+    color:#00897086;
+    font-size: 170%;
+}
+
+#location i:hover {
+    color:#008970;
+    transition: 0.1s;
+}
