@@ -318,8 +318,9 @@ h1, h2 {
 #paw-img img {
     border: 1px solid #b0a8b91a;
     border-radius: 20px;
-    margin-top: 50px 200px 0 0;
+    margin: 50px 0 0 200px;
     float:left;
+    max-width: 900px;
     animation-name: paw-img;
     animation-duration: 3s;
     animation-fill-mode: forwards;
