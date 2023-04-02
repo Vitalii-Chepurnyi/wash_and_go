@@ -379,7 +379,7 @@ h1, h2 {
 /*--social media links---*/
 
 #social-link {
-    margin: 50px 0 0 0;
+    margin: 40px 0 0 0;
     text-align: center;
 }
 
@@ -396,4 +396,9 @@ h1, h2 {
 #social-link i:hover {
     color:#008970;
     transition: 0.1s;
+}
+
+#social h2 {
+    padding-top:50px;
+    text-align: center;
 }
