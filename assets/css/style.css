@@ -506,3 +506,12 @@ h1, h2 {
         position: absolute;
     }
 }
+
+/*--For small screen sizes from 800 wide and down--*/
+
+@media screen and (max-width:800px) {
+    #navigation_links li {
+        margin: 40px 10px 0 0;
+    }
+
+}
