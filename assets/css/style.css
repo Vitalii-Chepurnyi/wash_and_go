@@ -452,6 +452,31 @@ h1, h2 {
     transition: 0.1s;
 }
 
+/*--For medium large screen sizes form 1600 wide and down--*/
+
+@media screen and (max-width:1700px){
+    #form-img img {
+        margin-top: 6%;
+        max-width: 750px;
+    }
+
+    .book-button {
+       margin-left: -0px;
+    }
+
+    #list-services {
+        margin: 0 auto;
+     }
+    
+     #paw-img img {
+        margin-left: 5%;
+        margin-top:6%;
+        max-width: 750px;
+    }
+
+
+}
+
 /*--For medium screen sizes from 1200 wide and down--*/
 
 @media screen and (max-width:1200px) {
