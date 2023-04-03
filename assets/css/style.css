@@ -452,12 +452,12 @@ h1, h2 {
     transition: 0.1s;
 }
 
-/*--For medium large screen sizes form 1800 wide and down--*/
+/*--For medium large screen sizes form 1700 wide and down--*/
 
-@media screen and (max-width:1800px){
+@media screen and (max-width:1700px){
     #form-img img {
         margin-top: 6%;
-        max-width: 750px;
+        max-width: 700px;
     }
 
     .book-button {
@@ -471,7 +471,7 @@ h1, h2 {
      #paw-img img {
         margin-left: 5%;
         margin-top:6%;
-        max-width: 750px;
+        max-width: 700px;
     }
 
 
