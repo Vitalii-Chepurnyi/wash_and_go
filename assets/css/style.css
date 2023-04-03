@@ -560,12 +560,12 @@ h1, h2 {
     }
 
     #navigation_links li {
-        margin: 70px 5px 0 0;
+        margin: 70px 20px 0 0;
     }
 
     #navigation_links {
         position: absolute;
-        font-size: 80%;
+        font-size: 90%;
         margin-left: 30px;
     }
 
