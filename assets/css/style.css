@@ -452,9 +452,9 @@ h1, h2 {
     transition: 0.1s;
 }
 
-/*--For medium large screen sizes form 1600 wide and down--*/
+/*--For medium large screen sizes form 1750 wide and down--*/
 
-@media screen and (max-width:1700px){
+@media screen and (max-width:1750px){
     #form-img img {
         margin-top: 6%;
         max-width: 750px;
