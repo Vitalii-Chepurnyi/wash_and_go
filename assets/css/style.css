@@ -451,3 +451,56 @@ h1, h2 {
     color:#008970;
     transition: 0.1s;
 }
+
+@media screen and (max-width:1200px) {
+    #navigation_links li {
+        margin: 40px 20px 0 0;
+    }
+
+    #navigation_links {
+        font-size: 140%;
+        margin-right:7%;
+    }
+
+    #dog-image {
+        height: 500px;
+        width: 30%;
+        margin-top:30px;
+    }
+
+    #content {
+        padding-top: 10px;
+        font-size: 110%;
+    }
+
+    .booking-form {
+        margin-left:7%;
+        margin-top:5%;
+        height:500px;
+        width:50%;
+    }
+
+    .book-button {
+        margin-left: 300px;
+    }
+
+    #form-img img {
+        display:none;
+    }
+
+    #list-services {
+       margin: 0 auto;
+    }
+
+    #paw-img img {
+        margin-left:50%;
+        margin-top:7%;
+        max-width: 800px;
+    }
+
+    #enquiry {
+        margin-top: 10%;
+        margin-left: 10%;
+        position: absolute;
+    }
+}
