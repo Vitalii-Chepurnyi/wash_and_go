@@ -452,14 +452,16 @@ h1, h2 {
     transition: 0.1s;
 }
 
+/*--For medium screen sizes from 1200 wide and down--*/
+
 @media screen and (max-width:1200px) {
     #navigation_links li {
         margin: 40px 20px 0 0;
     }
 
     #navigation_links {
-        font-size: 140%;
-        margin-right:7%;
+        font-size: 130%;
+        margin-right:2%;
     }
 
     #dog-image {
