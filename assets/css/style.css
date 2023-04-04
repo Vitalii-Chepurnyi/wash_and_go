@@ -678,6 +678,8 @@ h1, h2 {
     }
 }
 
+/*--for very small screens 380px wide and down--*/
+
 @media screen and (max-width:380px) {
     #navigation_links {
         font-size: 80%;
@@ -687,6 +689,8 @@ h1, h2 {
         margin: 10px 0 0 0;  
     }
 }
+
+/*--for very small screens 330px wide and down--*/
 
 @media screen and (max-width:330px) {
     #logo {
