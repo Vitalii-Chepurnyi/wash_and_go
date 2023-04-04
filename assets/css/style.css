@@ -732,3 +732,68 @@ h1, h2 {
         height: 350px;
     }
 }
+
+/*--for very small screens 290px wide and down--*/
+
+@media screen and (max-width:290px) {
+    #logo {
+        font-size: 160%;
+        margin-left: 5px;
+    }
+
+    #navigation_links {
+        font-size: 75%;
+        letter-spacing: 1px
+    }
+
+    #navigation_links li {
+        margin: 70px 5px 0 0;
+    }
+
+    .active {
+        padding:0 10px 0 10px;
+        border-radius: 20px;
+    }
+    
+    #logo #navigation_links {
+        line-height: 70px;
+    }
+
+    #social-link i {
+        font-size: 230%;
+        margin: 0 20px;
+    }
+
+    #content {
+        font-size: 80%;
+    }
+
+    #content h2 {
+        font-size:90%;
+    }
+
+    .booking-form {
+        font-size: 70%;
+    }
+
+    #enquiry {
+        padding: 20px;
+        margin: 10px 0 0 -5px;
+        font-size: 85%;
+    }
+
+    #enquiry-message {
+        height: 300px;
+    }
+
+    #celebrity-care {
+        margin-top: 50px;
+        font-size: 160%;
+        width: 130px;
+        line-height: 30px;
+    }
+    
+    #service {
+        font-size:80%;
+    }
+}
