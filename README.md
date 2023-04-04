@@ -6,3 +6,4 @@ groomer for their pets and to learn about the various grooming services availabl
 Users of this website will be able to find all the information they need to know about Wash&Go services:
 Their location, opening times, social media, online booking, services list, phone number to contact them directly
 or contacting them online via text for people who are not comfortable with phone calls.
+![Responsive Exp](vscode-local:/responsive.jpg)
