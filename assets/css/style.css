@@ -687,3 +687,44 @@ h1, h2 {
         margin: 10px 0 0 0;  
     }
 }
+
+@media screen and (max-width:330px) {
+    #logo {
+        font-size: 180%;
+    }
+
+    #navigation_links li {
+        margin: 70px 5px 0 0;
+    }
+
+    #enquiry {
+        margin: 10px 0 0 0;  
+    }
+
+    #social-link i {
+        font-size: 230%;
+        margin: 0 30px;
+    }
+
+    #content {
+        font-size: 90%;
+    }
+
+    #content h2 {
+        font-size: 100%;
+    }
+
+    .booking-form {
+        font-size: 80%;
+    }
+
+    #enquiry {
+        padding: 20px;
+        margin: 10px 0 0 0;
+        font-size: 100%;
+    }
+
+    #enquiry-message {
+        height: 350px;
+    }
+}
