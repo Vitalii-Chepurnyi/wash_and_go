@@ -677,3 +677,13 @@ h1, h2 {
         font-size: 120%;
     }
 }
+
+@media screen and (max-width:380px) {
+    #navigation_links {
+        font-size: 80%;
+    }
+
+    #enquiry {
+        margin: 10px 0 0 0;  
+    }
+}
