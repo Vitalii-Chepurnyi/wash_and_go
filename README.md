@@ -6,6 +6,7 @@ groomer for their pets and to learn about the various grooming services availabl
 Users of this website will be able to find all the information they need to know about Wash&Go services:
 Their location, opening times, social media, online booking, services list, phone number to contact them directly
 or contacting them online via text for people who are not comfortable with phone calls.
+View live website [Wash&Go](https://vitalii-chepurnyi.github.io/wash_and_go/index.html)
 
 
 ![Alt text](assets/images/responsive.jpg)
@@ -21,4 +22,15 @@ or contacting them online via text for people who are not comfortable with phone
        </ol> 
 </ul>
 
+![Alt text](assets/images/navigation_logo.jpg)
 
+<ul>
+   <li>The Homepage Image and Content
+      <ol>
+       <li>Homepage image shows different types of dogs.
+       <li>Homepage content shows a slogan saying "All Pets Deserve Celebrity Care" it means that Wash&Go can work with different types of pets and ages.
+       <li>Homepage book button that located under a slogan gives easy access for user to booking form located in book online page.
+       </ol> 
+</ul>
+
+![Alt text](assets/images/main.jpg)
