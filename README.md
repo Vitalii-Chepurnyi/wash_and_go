@@ -174,3 +174,31 @@ View live website [Wash&Go](https://vitalii-chepurnyi.github.io/wash_and_go/inde
 </ul>
 
 The live link is here --> [Wash&Go](https://vitalii-chepurnyi.github.io/wash_and_go/)
+
+# Bugs
+
+<ul>
+    <li>Only one bug was detected when loading the website. In "Contact" page an image would not load. So to fix that I changed a file path to source. After that the image loaded in correctly.
+</ul>    
+
+# Credits
+## Icons
+   All the icons that is used on the website comes from Font Awesome. Here is the link to that website:
+   https://fontawesome.com/search?q=gym&o=r&m=free
+
+## Video
+   Only one video was implemented in the website and it came from Shutterstock. Here is the link to that website: https://www.shutterstock.com/
+
+## Images
+   All featured images were borrowed from Pexels. Here is the link to that website: https://www.pexels.com/
+
+## Links
+   There are four links on the website leading to well known websites like Instagram, FaceBook, Twitter and Google Maps here is the link to those websites:
+
+   https://www.instagram.com/
+
+   https://www.facebook.com/
+
+   https://twitter.com/?lang=en
+
+   https://www.google.com/maps
