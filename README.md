@@ -100,3 +100,42 @@ View live website [Wash&Go](https://vitalii-chepurnyi.github.io/wash_and_go/inde
 </ul>
 
 ![Alt text](assets/images/book-form.jpg)
+
+<ul>
+   <li>Book Online Page, Prices.
+      <ol>
+       <li>The prices section provides information about the costs associated with a service.
+       <li>The section includes three main positions: Delux, Platinum, Premium.
+       <li>Delux position includes: bathing, brushing and combing, haircutting and styling.
+       <li>Platinum position includes: bathing, brushing and combing, haircutting and styling, ear cleaning, teeth cleaning.
+       <li>Premium position includes: bathing, brushing and combing, haircutting and styling, ear cleaning, teeth cleaning, flea and tick treatments, skin and coat treatments.
+       <li>This section gives user more information about specific services Wash&Go provides, the names relate to radio buttons in the booking form.
+       </ol>
+</ul>
+
+![Alt text](assets/images/prices.jpg)
+
+<ul>
+   <li>Contact Page, Online message.
+      <ol>
+       <li>On the left hand side of the page you can see an image that displays a dog with pink heart glasses, it is done to make a page visually appealing.
+       <li>Also on the right hand side a textarea is located with a header of "Send Us A Message!".
+       <li>It's done for the people who don't really like to contact someone new by phone, so they can do it online.
+       <li>Send Us A Message! textarea contains a "Send" button for the user to clearly understand what it does.
+       <li>It also changes it's appearance when you hover over it.
+       </ol>
+</ul>
+
+![Alt text](assets/images/online-message.jpg)
+
+<ul>
+   <li>Contact Page, Location, Phone Number, Opening Times.
+      <ol>
+       <li>This section contains all important information for the user to find and contact Wash&Go.
+       <li>It is showing the opening times and the closing times, for the user to know when they can contact them or visit them.
+       <li>The section located underneath of Online message section, it will be easy for the user to spot it there.
+       <li>Our Location header contains icon for user to interact with. It changes it's appearance when you hover over it. And its linked to google maps location, so that the user can easily find the right place to go to. Its done to improve search for the business location.
+       </ol>
+</ul>
+
+![Alt text](assets/images/location-times-phone.jpg)
