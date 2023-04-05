@@ -139,3 +139,38 @@ View live website [Wash&Go](https://vitalii-chepurnyi.github.io/wash_and_go/inde
 </ul>
 
 ![Alt text](assets/images/location-times-phone.jpg)
+
+# Testing
+
+<ul>
+   <li>The website was viewed on all devices, including a desktop, laptop, tablet, and a few iPhone models.
+   <li>This website has been viewed and tested on Google Chrome, Opera, Mozilla Firefox, Safari and Microsoft Edge.
+   <li>Household members and frieds were asked to navigate through the website and identify any bugs or improvements to be made.
+</ul>   
+
+# Lighthouse Testing
+
+![Alt text](assets/images/performance.jpg)
+
+# HTML Validator Testing
+
+![Alt text](assets/images/html-validator.jpg)
+
+# CSS Validator Testing
+
+![Alt text](assets/images/css-validator.jpg)
+
+# Deployment
+
+<ul>
+   <li>The website was deployed to GitHub. The steps to deploy are as follows:
+      <ol>
+       <li>In the GitHub repository, navigate to the Settings tab.
+       <li>Scroll down to GitHub pages and click "Pages"
+       <li>Under "Source" select "Deploy from branch"
+       <li>Under "Branch" select "main" make sure to keep it in "/root"
+       <li>Than press "Save" and the page will automatically build, and will show you the link once it was build.
+       </ol>
+</ul>
+
+The live link is here --> [Wash&Go](https://vitalii-chepurnyi.github.io/wash_and_go/)
