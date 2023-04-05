@@ -188,13 +188,15 @@ h1, h2 {
 }
 
 #video-happy h2 {
+    padding-bottom: 10px;
     padding-top: 10px;
     text-align: center;
 }
 
 #video-happy video {
-    margin-top: 20px;
-    margin-left: 26%;
+    display: block;
+    margin:auto;
+    width: 900px;
 }
 
 /*--footer--*/
