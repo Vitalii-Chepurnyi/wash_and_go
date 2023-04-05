@@ -179,6 +179,24 @@ h1, h2 {
 
 }
 
+/*---video of a dog--*/
+
+#video-happy {
+    background-color: #b0a8b91a;
+    height: 600px;
+    max-width: 100%;
+}
+
+#video-happy h2 {
+    padding-top: 10px;
+    text-align: center;
+}
+
+#video-happy video {
+    margin-top: 20px;
+    margin-left: 26%;
+}
+
 /*--footer--*/
 
 #end-page {
