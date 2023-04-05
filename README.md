@@ -34,3 +34,39 @@ View live website [Wash&Go](https://vitalii-chepurnyi.github.io/wash_and_go/inde
 </ul>
 
 ![Alt text](assets/images/main.jpg)
+
+<ul>
+   <li>Our Vision Section
+      <ol>
+       <li>This section shows vision of Wash&Go and how they see their work to be perfect.
+       <li>The vision section displays different types of methods they use to be as efficient and pet friendly as possible.
+       <li>Also every header element features icons so the user can easily relate them to the topic.
+       </ol> 
+</ul>
+
+![Alt text](assets/images/vision.jpg)
+
+<ul>
+   <li>Happy Customer Section
+      <ol>
+       <li>This section displays a video of a dog during his hair drying procedure.
+       <li>A video have parameters set to autoplay so when the user enter a webpage he/she can see it straigh away.
+       <li>The user can also control the video by skiping it or pause it.
+       <li>It's muted during whole time to improve better user experiance.
+       <li>This section shows a brief example of work Wash&Go provides.
+       </ol> 
+</ul>
+
+![Alt text](assets/images/client.jpg)
+
+<ul>
+   <li>Social Media
+      <ol>
+       <li>Social media Icons is available on all pages and it is fixed to the bottom of the page, so the user need to scroll down to see it.
+       <li>Those icons link to the three most important social media pages for Wash&Go.
+       <li>The links using special icons that are easy to spot and relate to specific social media. This is done to improve user experiance.
+       <li>Also it has it's own header "Our Social Media" for user to spot it easily.
+       </ol> 
+</ul>
+
+![Alt text](assets/images/social-media.jpg)
