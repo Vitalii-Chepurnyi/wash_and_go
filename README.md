@@ -53,7 +53,6 @@ View live website [Wash&Go](https://vitalii-chepurnyi.github.io/wash_and_go/inde
    <li>The Homepage, Happy Customer Section
       <ol>
        <li>This section displays a video of a dog during his hair drying procedure.
-       <li>A video have parameters set to autoplay so when the user enter a webpage he/she can see it straigh away.
        <li>The user can also control the video by skiping it or pause it.
        <li>It's muted during whole time to improve better user experiance.
        <li>This section shows a brief example of work Wash&Go provides.
