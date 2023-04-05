@@ -520,6 +520,14 @@ h1, h2 {
         font-size: 110%;
     }
 
+    #video-happy video {
+        width: 700px;
+    }
+
+    #video-happy {
+        height: 500px;
+    }
+
     .booking-form {
         margin-left:7%;
         margin-top:5%;
@@ -559,6 +567,15 @@ h1, h2 {
         font-size: 250%;
     }
 
+    #video-happy video {
+        width: 550px;
+    }
+
+    #video-happy {
+        margin-top: 40px;
+        height: 400px;
+    }
+
     #navigation_links li {
         margin: 40px 10px 0 0;
     }
@@ -577,6 +594,14 @@ h1, h2 {
     #logo {
         font-size: 200%;
         margin-bottom: 40px;
+    }
+
+    #video-happy video {
+        width: 350px;
+    }
+
+    #video-happy {
+        height: 260px;
     }
 
     #navigation_links li {
@@ -715,6 +740,16 @@ h1, h2 {
 @media screen and (max-width:330px) {
     #logo {
         font-size: 180%;
+    }
+    #video-happy h2 {
+        font-size: 120%;
+    }
+    #video-happy video {
+        width: 250px;
+    }
+
+    #video-happy {
+        height: 200px;
     }
 
     #navigation_links li {
